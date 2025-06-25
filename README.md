@@ -36,3 +36,56 @@ cd SmartSalaryPredictor
 
 # Run the application
 streamlit run app.py
+
+
+
+
+                                                                                   ** PROJECT REPORT**
+Smart Salary Predictor
+
+🔹 Developed By:
+Ajit Singh 
+
+🔹 Objective:
+To predict the salary of an individual based on their years of experience using Machine Learning and provide real-time predictions through an interactive web app.
+
+🔹 Technology Used:
+Python
+
+Streamlit
+
+Scikit-Learn
+
+Pandas
+
+Plotly
+
+HTML + CSS
+
+🔹 Methodology:
+Collected dataset (Years of Experience vs Salary).
+
+Trained a Simple Linear Regression model.
+
+Developed a Streamlit-based web application.
+
+Integrated an interactive slider for input.
+
+Displayed predicted salary with dynamic graphs.
+
+🔹 Result:
+Real-time salary prediction works accurately.
+
+Graph updates dynamically as input changes.
+
+Custom HTML and CSS give a professional UI feel.
+
+🔹 Conclusion:
+The Smart Salary Predictor is an effective, fast, and easy-to-use solution for estimating salary based on experience. The project can be further improved by adding more features like education, location, and skill set.
+
+🔹 Future Scope:
+Add multiple input factors (education, city, skills).
+
+Deploy the app online.
+
+Add user login and salary history tracking.
